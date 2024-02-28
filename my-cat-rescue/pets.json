@@ -1,0 +1,125 @@
+[
+  {
+    "_id": "1",
+    "owner": "1",
+    "name": "Simba",
+    "type": "Kitten",
+    "description": "This lovely 3 month old is a very snuggly boy, looking for a lap to sleep in",
+
+    "city": "Boston",
+    "attributes": {
+      "age": "3 Months",
+      "color": "black",
+      
+      "breed": "Domestic Short Hair",
+      "coat": "short",
+      "gender":  "male",
+      "readiness": {
+        "isVaccinated": true,
+        "isDesexed": true,
+        "isWormed": true,
+        "interstateAdoptionAvailable": false
+      },
+      "preferences": [
+        "No Preferences"
+      ],
+      "longDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam rutrum tristique aliquam. Morbi libero erat, sodales vel malesuada at, fermentum ac mi. Donec quis auctor massa. Cras sed turpis at urna varius fringilla. Suspendisse potenti. Morbi risus mauris, imperdiet eget sapien a, aliquam viverra ex. Aenean aliquam volutpat tortor. Mauris sed ipsum efficitur, pretium leo nec, ornare quam. Mauris auctor, nunc eget eleifend ullamcorper, est nibh euismod justo, vitae fermentum metus ex ut sapien. Duis ut ullamcorper mauris. Sed nec euismod nisi. Sed lorem metus, fringilla at lacinia a, interdum ut magna. Curabitur eleifend nibh quis libero sagittis dapibus. Ut feugiat lorem venenatis, varius libero nec, facilisis neque. Nunc ullamcorper iaculis diam, ut accumsan turpis varius et."
+
+
+    },
+
+
+
+    "contact_info": {
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "phone": "617-555-5555"
+    },
+    "images": [ "a1.jpg" ],
+    "isFeatured": true,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "2",
+    "owner": "1",
+    "name": "Lana",
+    "type": "Cat",
+    "description": "A special lady looking for a quiet, loving home",
+
+    "city": "Boston",
+    "attributes": {
+      "age": "2 Years, 5 Months",
+      "color": "tabby",
+     
+      "breed": "Domestic Short Hair",
+      "coat": "short",
+      "gender": "female",
+      "readiness": {
+        "isVaccinated": true,
+        "isDesexed": true,
+        "isWormed": true,
+        "interstateAdoptionAvailable": false
+      },
+      "preferences": [
+        "Prefer no children under the age of 5", "Prefer no other pets"
+      ],
+      "longDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam rutrum tristique aliquam. Morbi libero erat, sodales vel malesuada at, fermentum ac mi. Donec quis auctor massa. Cras sed turpis at urna varius fringilla. Suspendisse potenti. Morbi risus mauris, imperdiet eget sapien a, aliquam viverra ex. Aenean aliquam volutpat tortor. Mauris sed ipsum efficitur, pretium leo nec, ornare quam. Mauris auctor, nunc eget eleifend ullamcorper, est nibh euismod justo, vitae fermentum metus ex ut sapien. Duis ut ullamcorper mauris. Sed nec euismod nisi. Sed lorem metus, fringilla at lacinia a, interdum ut magna. Curabitur eleifend nibh quis libero sagittis dapibus. Ut feugiat lorem venenatis, varius libero nec, facilisis neque. Nunc ullamcorper iaculis diam, ut accumsan turpis varius et."
+
+
+    },
+
+
+
+    "contact_info": {
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "phone": "617-555-5555"
+    },
+    "images": [ "a2.jpg"],
+    "isFeatured": true,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "3",
+    "owner": "2",
+    "name": "Brutus",
+    "type": "Dog",
+    "description": "This big boy is very active and friendly",
+
+    "city": "Boston",
+    "attributes": {
+      "age": "1 Year",
+      "color": "black",
+      
+      "breed": "Shelty Cross",
+      "coat": "short",
+      "gender": "male",
+      "readiness": {
+        "isVaccinated": true,
+        "isDesexed": true,
+        "isWormed": true,
+        "interstateAdoptionAvailable": false
+      },
+      "preferences": [
+        "No Preferences"
+      ],
+      "longDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam rutrum tristique aliquam. Morbi libero erat, sodales vel malesuada at, fermentum ac mi. Donec quis auctor massa. Cras sed turpis at urna varius fringilla. Suspendisse potenti. Morbi risus mauris, imperdiet eget sapien a, aliquam viverra ex. Aenean aliquam volutpat tortor. Mauris sed ipsum efficitur, pretium leo nec, ornare quam. Mauris auctor, nunc eget eleifend ullamcorper, est nibh euismod justo, vitae fermentum metus ex ut sapien. Duis ut ullamcorper mauris. Sed nec euismod nisi. Sed lorem metus, fringilla at lacinia a, interdum ut magna. Curabitur eleifend nibh quis libero sagittis dapibus. Ut feugiat lorem venenatis, varius libero nec, facilisis neque. Nunc ullamcorper iaculis diam, ut accumsan turpis varius et."
+
+
+    },
+
+
+
+    "contact_info": {
+      "name": "Jane Doe",
+      "email": "jane@gmail.com",
+      "phone": "617-555-5556"
+    },
+    "images": [ "a3.jpg", "a4.jpg" ],
+    "isFeatured": false,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  }
+]
